@@ -1,0 +1,17 @@
+🚀 Project Showcase: T20 Cricket World Cup 2022 Dashboard 🚀
+
+I recently completed a data-driven project on the T20 Cricket World Cup 2022, with the objective of identifying the ultimate best star player team of the tournament based on data collected from ESPN Sports. Here’s how I went about it:
+
+🎯 Key Objectives for Selecting the Best XI:
+1.The team should average at least 180 runs per game.
+2.They should consistently defend a target of 150 runs.
+
+📊 Project Steps:
+> Web Scraping: Leveraging Bright Data, I scraped essential player stats from ESPN in JSON format. (Typically, I prefer Octoparse for web scraping, as it’s beginner-friendly and intuitive for structured data extraction.)
+
+> Data Pre-processing: After gathering the JSON files, I applied various data formatting and transformation techniques, converting the data to CSV. This step involved cleaning, validating, and structuring the data to ensure quality insights.
+
+> Power BI Analysis & Dashboard Creation:
+
+Loaded the data into Power BI, created KPIs, and set specific criteria for roles like openers, anchors, finishers, all-rounders, and fast bowlers.
+Using these KPIs, I built an interactive dashboard, displaying insights based on my selection criteria.
